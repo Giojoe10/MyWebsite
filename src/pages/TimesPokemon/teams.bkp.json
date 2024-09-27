@@ -1,0 +1,908 @@
+{
+  "teams": {
+    "Emerald": {
+      "game_name": "Emerald",
+      "game_color": "Emerald",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/a/a4/Spr_E_May.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Littleroot Town",
+      "pokemon_list": [
+        {
+          "name": "Blaziken",
+          "gender": "male",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/5/56/Spr_3r_257.png",
+          "ability": "Blaze",
+          "held_item": null,
+          "moves": ["Slash", "Blaze Kick", "Quick Attack", "Double Kick"]
+        },
+        {
+          "name": "Aggron",
+          "gender": "male",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/6/61/Spr_3r_306.png",
+          "ability": "Rock Head",
+          "held_item": null,
+          "moves": ["Iron Tail", "Take Down", "Metal Claw", "Headbutt"]
+        },
+        {
+          "name": "Manectric",
+          "gender": "male",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/1/15/Spr_3r_310.png",
+          "ability": "Lighthining Rod",
+          "held_item": null,
+          "moves": ["Spark", "Flash", "Bite", "Thunder"]
+        },
+        {
+          "name": "Flygon",
+          "gender": "female",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/f/f0/Spr_3r_330.png",
+          "ability": "Levitate",
+          "held_item": null,
+          "moves": ["Bite", "Crunch", "Dragon Breath", "Earthquake"]
+        },
+        {
+          "name": "Rayquaza",
+          "gender": null,
+          "level": 70,
+          "image": "https://archives.bulbagarden.net/media/upload/8/81/Spr_3r_384.png",
+          "ability": "Air Lock",
+          "held_item": null,
+          "moves": ["Fly", "Waterfall", "Extreme Speed", "Outrage"]
+        },
+        {
+          "name": "Kirlia",
+          "gender": "female",
+          "level": 30,
+          "image": "https://archives.bulbagarden.net/media/upload/6/6b/Spr_3r_281_s.png",
+          "shiny": true,
+          "ability": "Trace",
+          "held_item": null,
+          "moves": ["Confusion", "Sleep Talk", "Rest", "Psychic"]
+        }
+      ]
+    },
+    "Y": {
+      "game_name": "X and Y",
+      "game_color": "Y",
+      "trainer_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWinVJqo4xjetB3ngZEf7KdFAS0wrkjyDtDtkyP9ReY0yJXfe8UEk5w2MvWmx_hyphenhyphen-WIc4G9Lkx4Ol5dh6MRzQ3I0MmCX2011Yic2IeW1MA2F_ltMPl0zekqbO15f8vHsEzKov-cG42naY/w102-h102-rw/120px-VSCalem_Masters.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Vaniville Town",
+      "pokemon_list": [
+        {
+          "name": "Greninja",
+          "gender": "male",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__658.png",
+          "ability": "Torrent",
+          "held_item": null,
+          "moves": ["Waterfall", "Surf", "Hydro Cannon", "Hydro Pump"]
+        },
+        {
+          "name": "Aggron",
+          "gender": "male",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__306.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__306-mega.png",
+          "ability": "Rock Head",
+          "held_item": "Aggronite",
+          "moves": ["Cut", "Heavy Slam", "Rock Smash", "Strength"]
+        },
+        {
+          "name": "Charizard",
+          "gender": "female",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__006.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__006-mega-y.png",
+          "ability": "Blaze",
+          "held_item": "Charizardite Y",
+          "moves": ["Inferno", "Dragon Rage", "Flare Blitz", "Blast Burn"]
+        },
+        {
+          "name": "Lucario",
+          "gender": "male",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__448-mega.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__448.png",
+          "ability": "Justified",
+          "held_item": "Lucarionite",
+          "moves": [
+            "Power-Up Punch",
+            "Extreme Speed",
+            "Aura Sphere",
+            "Close Combat"
+          ]
+        },
+        {
+          "name": "Talonflame",
+          "gender": "female",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__663.png",
+          "ability": "Flame Body",
+          "held_item": null,
+          "moves": ["Flame Charge", "Brave Bird", "Fly", "Me First"]
+        },
+        {
+          "name": "Yveltal",
+          "gender": null,
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__717.png",
+          "ability": "Dark Aura",
+          "held_item": "Sky Plate",
+          "moves": ["Phantom Force", "Oblivion Wing", "Foul Play", "Psychic"]
+        }
+      ]
+    },
+    "Alpha Sapphire": {
+      "game_name": "Omega Ruby and Alpha Sapphire",
+      "game_color": "Alpha sapphire",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/d/d0/VSBrendan_Masters.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Littleroot Town",
+      "pokemon_list": [
+        {
+          "name": "Blaziken",
+          "gender": "male",
+          "level": "60",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__257-mega.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__257_m.png",
+          "ability": "Speed Bost",
+          "held_item": "Blazikenite",
+          "moves": ["Flame Charge", "Brave Bird", "Blaze Kick", "Strength"]
+        },
+        {
+          "name": "Kyogre",
+          "gender": null,
+          "level": "60",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__382-primal.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__382.png",
+          "ability": "Primordial Sea",
+          "held_item": "Blue Orb",
+          "moves": ["Body Slam", "Waterfall", "Ice Beam", "Origin Pulse"]
+        },
+        {
+          "name": "Glalie",
+          "gender": "male",
+          "level": "60",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__362.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__362-mega.png",
+          "ability": "Inner Focus",
+          "held_item": "Glalitite",
+          "moves": ["Sheer Cold", "Freeze-Dry", "Blizzard", "Frost Breath"]
+        },
+        {
+          "name": "Latias",
+          "gender": "female",
+          "level": "60",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__380.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__380-mega.png",
+          "ability": "Levitate",
+          "held_item": "Latiasite",
+          "moves": ["Fly", "Dragon Breath", "Mist Ball", "Dive"]
+        },
+        {
+          "name": "Linoone",
+          "gender": "female",
+          "level": "60",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__264.png",
+          "ability": "Pickup",
+          "held_item": "Hyper Potion",
+          "moves": ["Rock Smash", "Cut", "Secret Power", "Surf"]
+        },
+        {
+          "name": "Gardevoir",
+          "gender": "female",
+          "level": "60",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__282.png",
+          "ability": "Telepathy",
+          "held_item": "King's Rock",
+          "moves": ["Flash", "Moonblast", "Psychic", "Draining Kiss"]
+        }
+      ]
+    },
+    "Moon": {
+      "game_name": "Sun and Moon",
+      "game_color": "Moon",
+      "trainer_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbG1Q7WlzosXRZ_0HsdyGVUEYe5D6bn9pXWIE7OaBVyKt_jX5Ff4k8H7En1A9KODSl4OpnDnSJuAOQ8zxGBHncDRjfP4xws9FtZM_c2mn7m5GOcm9dBP6gelk1ISc2SSEkYv4X8Au61Zpa/s102-rw/120px-VSElio_Masters.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Hau'oli Outskirts",
+      "pokemon_list": [
+        {
+          "name": "Primarina",
+          "gender": "male",
+          "level": "70",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__730.png",
+          "ability": "Torrent",
+          "held_item": "Primarium Z",
+          "moves": ["Bubble Beam", "Sparkling Aria", "Moonblast", "Hydro Pump"]
+        },
+        {
+          "name": "Gumshoos",
+          "gender": "female",
+          "level": "70",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__735.png",
+          "ability": "Strong Jaw",
+          "held_item": "Darkinium Z",
+          "moves": ["Thrash", "Hyper Fang", "Crunch", "Bite"]
+        },
+        {
+          "name": "Toucannon",
+          "gender": "male",
+          "level": "70",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__733.png",
+          "ability": "Keen Eye",
+          "held_item": "Firium Z",
+          "moves": ["Drill Peck", "Hyper Voice", "Flame Charge", "Beak Blast"]
+        },
+        {
+          "name": "Tsareena",
+          "gender": "female",
+          "level": "70",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__763.png",
+          "ability": "Leaf Guard",
+          "held_item": "Fightinium Z",
+          "moves": ["Trop Kick", "Leaf Storm", "High Jump Kick", "Razor Leaf"]
+        },
+        {
+          "name": "Araquanid",
+          "gender": "male",
+          "level": "70",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__752.png",
+          "ability": "Water Bubble",
+          "held_item": "Buginium Z",
+          "moves": ["Bug Bite", "Lunge", "Leech Life", "Liquidation"]
+        },
+        {
+          "name": "Lunala",
+          "gender": "null",
+          "level": "70",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__792.png",
+          "ability": "Shadow Shield",
+          "held_item": "Ghostium Z",
+          "moves": [
+            "Moongeist Beam",
+            "Phantom Force",
+            "Night Daze",
+            "Shadow Ball"
+          ]
+        }
+      ]
+    },
+    "Sword": {
+      "game_name": "Sword and Shield",
+      "game_color": "Sword",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/d/df/Gloria_Icon_SWSH-1.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Postwick",
+      "pokemon_list": [
+        {
+          "name": "Inteleon",
+          "gender": "male",
+          "level": "70",
+          "image": "https://img.pokemondb.net/sprites/sword-shield/normal/inteleon.png",
+          "hover_image": "https://img.pokemondb.net/sprites/sword-shield/normal/inteleon-gigantamax.png",
+          "ability": "Torrent",
+          "held_item": null,
+          "moves": ["Focus Energy", "Snipe Shot", "Air Slash", "Ice Beam"]
+        },
+        {
+          "name": "Coalossal",
+          "gender": "female",
+          "level": "70",
+          "image": "https://img.pokemondb.net/sprites/sword-shield/normal/coalossal.png",
+          "hover_image": "https://img.pokemondb.net/sprites/sword-shield/normal/coalossal-gigantamax.png",
+          "ability": "Flame Body",
+          "held_item": null,
+          "moves": ["Heat Crash", "Incinerate", "Rock Blast", "Burn Up"]
+        },
+        {
+          "name": "Boltund",
+          "gender": "female",
+          "level": "70",
+          "image": "https://img.pokemondb.net/sprites/sword-shield/normal/boltund.png",
+          "ability": "Strong Jaw",
+          "held_item": null,
+          "moves": ["Spark", "Wild Charge", "Bite", "Crunch"]
+        },
+        {
+          "name": "Hatterene",
+          "gender": "female",
+          "level": "70",
+          "image": "https://img.pokemondb.net/sprites/sword-shield/normal/hatterene.png",
+          "ability": "Healer",
+          "held_item": null,
+          "moves": [
+            "Disarming Voice",
+            "Dazzling Gleam",
+            "Psycho Cut",
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Toxtricity",
+          "gender": "male",
+          "level": "70",
+          "image": "https://img.pokemondb.net/sprites/sword-shield/normal/toxtricity.png",
+          "hover_image": "https://img.pokemondb.net/sprites/sword-shield/normal/toxtricity-gigantamax.png",
+          "ability": "Plus",
+          "held_item": null,
+          "moves": ["Overdrive", "Hex", "Venoshock", "Drain Punch"]
+        },
+        {
+          "name": "Dragapult",
+          "gender": "male",
+          "level": "70",
+          "shiny": "false",
+          "image": "https://img.pokemondb.net/sprites/sword-shield/normal/dragapult.png",
+          "ability": "Infiltrator",
+          "held_item": null,
+          "moves": ["Dragon Pulse", "Dragon Rush", "Dragon Darts", "Bite"]
+        }
+      ]
+    },
+    "Brilliant Diamond": {
+      "game_name": "Brilliant Diamond and Shining Pearl",
+      "game_color": "Brilliant diamond",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/a/a9/DawnChallenge_Pikachu_Hoodie_1_BDSP.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Twinleaf Town",
+      "pokemon_list": [
+        {
+          "name": "Empoleon",
+          "gender": "male",
+          "level": "70",
+          "image": "https://projectpokemon.org/images/sprites-models/bdsp-sprites/395.png",
+          "ability": "Torrent",
+          "held_item": null,
+          "moves": ["Surf", "Ice Beam", "Earthquake", "Flash Cannon"]
+        },
+        {
+          "name": "Luxray",
+          "gender": "male",
+          "level": "70",
+          "image": "https://projectpokemon.org/images/sprites-models/bdsp-sprites/405.png",
+          "ability": "Rivalry",
+          "held_item": null,
+          "moves": ["Spark", "Crunch", "Thunder Shock", "Volt Switch"]
+        },
+        {
+          "name": "Roserade",
+          "gender": "female",
+          "level": "70",
+          "image": "https://projectpokemon.org/images/sprites-models/bdsp-sprites/407.png",
+          "ability": "Natural Cure",
+          "held_item": null,
+          "moves": ["Synthesis", "Sludge Bomb", "Grass Knot", "Toxic Spikes"]
+        },
+        {
+          "name": "Lopunny",
+          "gender": "female",
+          "level": "70",
+          "image": "https://projectpokemon.org/images/sprites-models/bdsp-sprites/428.png",
+          "ability": "Klutz",
+          "held_item": null,
+          "moves": [
+            "Power-Up Punch",
+            "Fake Out",
+            "Fire Punch",
+            "High Jump Kick"
+          ]
+        },
+        {
+          "name": "Gardevoir",
+          "gender": "female",
+          "level": "70",
+          "image": "https://projectpokemon.org/images/sprites-models/bdsp-sprites/282.png",
+          "ability": "Trace",
+          "held_item": null,
+          "moves": ["Psychic", "Shadow Ball", "Focus Blast", "Moonblast"]
+        },
+        {
+          "name": "Vespiquen",
+          "gender": "female",
+          "level": "70",
+          "image": "https://projectpokemon.org/images/sprites-models/bdsp-sprites/416.png",
+          "ability": "Pressure",
+          "held_item": null,
+          "moves": ["Roost", "Air Slash", "Attack Order", "Substitute"]
+        }
+      ]
+    },
+    "Legends:Arceus": {
+      "game_name": "Legends: Arceus",
+      "game_color": "Legends arceus",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/7/72/VSAkari_Masters.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Jubilife Village",
+      "pokemon_list": [
+        {
+          "name": "Samurott",
+          "type1": "Water",
+          "type2": "Dark",
+          "gender": "male",
+          "level": "72",
+          "image": ".\\Jinja\\images\\Samurott-Hisui.png",
+          "held_item": "LA",
+          "effort_levels": [10, 10, 7, 3, 7, 10],
+          "moves": ["Aqua Tail", "Ceaseless Edge", "Swords Dance", "X-Scissor"]
+        },
+        {
+          "name": "Espeon",
+          "gender": "female",
+          "level": "72",
+          "image": ".\\Jinja\\images\\Espeon.png",
+          "held_item": "LA",
+          "effort_levels": [10, 3, 7, 10, 7, 10],
+          "moves": ["Psychic", "Quick Attack", "Shadow Ball", "Calm Mind"]
+        },
+        {
+          "name": "Lilligant",
+          "type1": "Grass",
+          "type2": "Fighting",
+          "gender": "female",
+          "level": "73",
+          "image": ".\\Jinja\\images\\Liligant-Hisui.png",
+          "held_item": "LA",
+          "effort_levels": [10, 10, 7, 3, 7, 10],
+          "moves": ["Leaf Blade", "Drain Punch", "Poison Jab", "Victory Dance"]
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": "Rock",
+          "gender": "male",
+          "level": "71",
+          "image": ".\\Jinja\\images\\Arcanine-Hisui.png",
+          "effort_levels": [10, 10, 7, 3, 7, 10],
+          "held_item": "LA",
+          "moves": ["Bulldoze", "Rock Slide", "Crunch", "Raging Fury"]
+        },
+        {
+          "name": "Sneasler",
+          "gender": "female",
+          "level": "71",
+          "image": ".\\Jinja\\images\\Sneasler.png",
+          "effort_levels": [10, 3, 7, 10, 7, 10],
+          "held_item": "LA",
+          "moves": ["Dire Claw", "Poison Jab", "Swords Dance", "Close Combat"]
+        },
+        {
+          "name": "Ninetales",
+          "type1": "Ice",
+          "type2": "Fairy",
+          "gender": "female",
+          "level": "69",
+          "image": ".\\Jinja\\images\\Ninetales-Alola.png",
+          "effort_levels": [10, 1, 7, 10, 7, 10],
+          "held_item": "LA",
+          "moves": ["Ice Beam", "Nasty Plot", "Blizzard", "Draining Kiss"]
+        }
+      ]
+    },
+    "Violet": {
+      "game_name": "Scarlet and Violet",
+      "game_color": "Violet",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/0/00/NSO_SV_Week_1_-_Character_-_Juliana02.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Cabo Poco",
+      "pokemon_list": [
+        {
+          "name": "Quaquaval",
+          "gender": "male",
+          "tera": "Water",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/9/9c/Menu_SV_0914.png",
+          "ability": "Moxie",
+          "held_item": "Mystic Water",
+          "moves": ["Aqua Step", "Brave Bird", "Aqua Jet", "Ice Spinner"]
+        },
+        {
+          "name": "Ceruledge",
+          "gender": "female",
+          "tera": "Fire",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/2/29/Menu_SV_0937.png",
+          "ability": "Flash Fire",
+          "held_item": "Life Orb",
+          "moves": ["Bitter Blade", "Shadow Sneak", "Will-O-Wisp", "Bulk Up"]
+        },
+        {
+          "name": "Tinkaton",
+          "gender": "female",
+          "tera": "Steel",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/c/cc/Menu_SV_0959.png",
+          "ability": "Mold Breaker",
+          "held_item": "Sitrus Berry",
+          "moves": ["Gigaton Hammer", "Play Rough", "Knock Off", "Swords Dance"]
+        },
+        {
+          "name": "Pawmot",
+          "gender": "female",
+          "tera": "Electric",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/8/8b/Menu_SV_0923.png",
+          "ability": "Volt Absorb",
+          "held_item": "Punching Glove",
+          "moves": ["Double Shock", "Close Combat", "Ice Punch", "Mach Punch"]
+        },
+        {
+          "name": "Chien-Pao",
+          "gender": null,
+          "tera": "Dark",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/e/ed/Menu_SV_1002.png",
+          "ability": "Sword of Ruin",
+          "held_item": "Choice Band",
+          "moves": ["Crunch", "Icicle Crash", "Ice Shard", "Sacred Sword"]
+        },
+        {
+          "name": "Maushold",
+          "gender": null,
+          "tera": "Normal",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/f/ff/Menu_SV_0925-Three.png",
+          "ability": "Techinician",
+          "held_item": "Wide Lens",
+          "moves": ["Population Bomb", "Tidy Up", "Low Kick", "Bite"]
+        }
+      ]
+    },
+    "Teal Mask": {
+      "game_name": "Scarlet and Violet",
+      "game_color": "Teal mask",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/2/24/NSO_SV_DLC2_Week_3_-_Character_-_Juliana_The_Teal_Mask.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Kitakami Island",
+      "pokemon_list": [
+        {
+          "name": "Leavanny",
+          "gender": "female",
+          "tera": "Bug",
+          "level": "80",
+          "image": "https://archives.bulbagarden.net/media/upload/a/a0/Menu_SV_0542.png",
+          "ability": "Swarm",
+          "held_item": "Muscle Band",
+          "moves": ["Razor Leaf", "Slash", "X Scissor", "Bug Bite"]
+        },
+        {
+          "name": "Chandelure",
+          "gender": "female",
+          "tera": "Fire",
+          "level": "80",
+          "image": "https://archives.bulbagarden.net/media/upload/8/82/Menu_SV_0609.png",
+          "ability": "Flash Fire",
+          "held_item": "Choice Specs",
+          "moves": ["Shadow Ball", "Energy Ball", "Flamethrower", "Overheat"]
+        },
+        {
+          "name": "Iron Valiant",
+          "gender": null,
+          "tera": "Fighthing",
+          "level": "80",
+          "image": "https://archives.bulbagarden.net/media/upload/b/bc/Menu_SV_1006.png",
+          "ability": "Quark Drive",
+          "held_item": "Booster Energy",
+          "moves": ["Close Combat", "Night Slash", "Psycho Cut", "Moonblast"]
+        },
+        {
+          "name": "Clodsire",
+          "gender": "female",
+          "tera": "Ground",
+          "level": "80",
+          "image": "https://archives.bulbagarden.net/media/upload/3/3b/Menu_SV_0980.png",
+          "ability": "Water Absorb",
+          "held_item": "Black Sludge",
+          "moves": ["Earthquake", "Poison Jab", "Toxic Spikes", "Recover"]
+        },
+        {
+          "name": "Zoroark",
+          "type1": "Normal",
+          "type2": "Ghost",
+          "gender": "female",
+          "tera": "Ghost",
+          "level": "80",
+          "image": "https://archives.bulbagarden.net/media/upload/f/fc/Menu_SV_0571-Hisui.png",
+          "ability": "Illusion",
+          "held_item": "Leftovers",
+          "moves": ["Nasty Plot", "Shadow Ball", "Hyper Voice", "Knock Off"]
+        },
+        {
+          "name": "Garchomp",
+          "gender": "male",
+          "tera": "Dragon",
+          "level": "80",
+          "image": "https://archives.bulbagarden.net/media/upload/e/e2/Menu_SV_0445.png",
+          "ability": "Rough Skin",
+          "held_item": "Rocky Helmet",
+          "moves": ["Earthquake", "Dragon Tail", "Poison Jab", "Stone Edge"]
+        }
+      ]
+    },
+    "Indigo Disk": {
+      "game_name": "Scarlet and Violet",
+      "game_color": "Indigo disk",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/4/40/NSO_SV_DLC2_Week_2_-_Character_-_Juliana_The_Indigo_Disk.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Blueberry Academy",
+      "pokemon_list": [
+        {
+          "name": "Quaquaval",
+          "gender": "male",
+          "tera": "Water",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/9/9c/Menu_SV_0914.png",
+          "ability": "Moxie",
+          "held_item": "Mystic Water",
+          "moves": ["Aqua Step", "Brave Bird", "Aqua Jet", "Ice Spinner"]
+        },
+        {
+          "name": "Ceruledge",
+          "gender": "female",
+          "tera": "Fire",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/2/29/Menu_SV_0937.png",
+          "ability": "Flash Fire",
+          "held_item": "Life Orb",
+          "moves": ["Bitter Blade", "Shadow Sneak", "Will-O-Wisp", "Bulk Up"]
+        },
+        {
+          "name": "Tinkaton",
+          "gender": "female",
+          "tera": "Steel",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/c/cc/Menu_SV_0959.png",
+          "ability": "Mold Breaker",
+          "held_item": "Sitrus Berry",
+          "moves": ["Gigaton Hammer", "Play Rough", "Knock Off", "Swords Dance"]
+        },
+        {
+          "name": "Ogerpon",
+          "type1": "Grass",
+          "type2": "Fire",
+          "gender": "female",
+          "tera": "Fire",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/b/b1/Menu_SV_1017-Hearthflame_Mask.png",
+          "ability": "Mold Breaker",
+          "held_item": "Hearthflame Mask",
+          "moves": ["Ivy Cudgel", "Synthesis", "Swords Dance", "Sunny Day"]
+        },
+        {
+          "name": "Chien-Pao",
+          "gender": null,
+          "tera": "Dark",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/e/ed/Menu_SV_1002.png",
+          "ability": "Sword of Ruin",
+          "held_item": "Choice Band",
+          "moves": ["Crunch", "Icicle Crash", "Ice Shard", "Sacred Sword"]
+        },
+        {
+          "name": "Maushold",
+          "gender": null,
+          "tera": "Normal",
+          "level": "100",
+          "image": "https://archives.bulbagarden.net/media/upload/f/ff/Menu_SV_0925-Three.png",
+          "ability": "Techinician",
+          "held_item": "Wide Lens",
+          "moves": ["Population Bomb", "Tidy Up", "Low Kick", "Bite"]
+        }
+      ]
+    },
+    "Pokérogue": {
+      "game_name": "Pokérogue",
+      "game_color": "Md darkness",
+      "trainer_img": "https://raw.githubusercontent.com/pagefaultgames/pokerogue/main/public/images/trainer/player_f.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "TrainerTown",
+      "pokemon_list": [
+        {
+          "name": "Annihilape",
+          "gender": "male",
+          "level": "200",
+          "image": "https://github.com/pagefaultgames/pokerogue/blob/main/public/images/pokemon/979.png?raw=true",
+          "ability": "Anger Point + Iron Fist",
+          "held_item": null
+        },
+        {
+          "name": "Swampert",
+          "gender": "female",
+          "level": "200",
+          "shiny": "true",
+          "image": "https://github.com/pagefaultgames/pokerogue/blob/main/public/images/pokemon/shiny/260-mega.png?raw=true",
+          "ability": "Swift Swim",
+          "held_item": null
+        },
+        {
+          "name": "Tinkaton",
+          "gender": "female",
+          "level": "200",
+          "image": "https://github.com/pagefaultgames/pokerogue/blob/main/public/images/pokemon/959.png?raw=true",
+          "ability": "Mold Breaker + Huge Power",
+          "held_item": null
+        },
+        {
+          "name": "Crustle",
+          "gender": "male",
+          "level": "200",
+          "image": "https://img.pokemondb.net/sprites/black-white/normal/crustle.png",
+          "ability": "Shell Armor + Stamina",
+          "held_item": null
+        },
+        {
+          "name": "Appletun",
+          "gender": "female",
+          "level": "200",
+          "image": "https://github.com/pagefaultgames/pokerogue/blob/main/public/images/pokemon/842.png?raw=true",
+          "ability": "Ripen",
+          "held_item": null
+        },
+        {
+          "name": "Arcanine",
+          "gender": "male",
+          "level": "200",
+          "image": "https://img.pokemondb.net/sprites/black-white/normal/arcanine.png",
+          "ability": "Intimidate",
+          "held_item": null
+        }
+      ]
+    },
+    "Infinite Fusion": {
+      "game_name": "Infinite Fusion",
+      "game_color": "Colosseum",
+      "rainbow_border": true,
+      "trainer_img": "https://github.com/infinitefusion/infinitefusion-e18/blob/main/Graphics/Trainers/POKEMONTRAINER_Leaf.png?raw=true",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Pallet Town",
+      "pokemon_list": [
+        {
+          "name": "Cactoise",
+          "type1": "Water",
+          "type2": "Grass",
+          "gender": "male",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/458.9.png",
+          "ability": "Water Absorb",
+          "held_item": "Miracle Seed",
+          "moves": ["Surf", "Energy Ball", "Ice Beam", "Spiky Shield"]
+        },
+        {
+          "name": "Lopark",
+          "type1": "Normal",
+          "type2": "Dark",
+          "gender": "male",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/354.338.png",
+          "ability": "Cute Charm",
+          "held_item": "Rawst Berry",
+          "moves": ["Drain Punch", "Night Slash", "Quick Attack", "Return"]
+        },
+        {
+          "name": "Sylcorio",
+          "type1": "Fairy",
+          "type2": "Flying",
+          "gender": "female",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/339.430.png",
+          "ability": "Cute Charm",
+          "held_item": "Amulet Coin",
+          "moves": ["Toxic", "Revelation Dance", "Roost", "Air Slash"]
+        },
+        {
+          "name": "Paloeon",
+          "type1": "Ground",
+          "type2": "Psychic",
+          "gender": "female",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/460.196.png",
+          "ability": "Water Compact",
+          "held_item": "Twisted Spoon",
+          "moves": ["Psychic", "Giga Drain", "Earth Power", "Shadow Ball"]
+        },
+        {
+          "name": "Margmorvire",
+          "type1": "Fire",
+          "type2": "Electric",
+          "gender": "male",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/268.267d.png",
+          "ability": "Flame Body",
+          "held_item": "Leftovers",
+          "moves": ["Thunder Wave", "Low Sweep", "Thunder Punch", "Fire Punch"]
+        },
+        {
+          "name": "Klinkperior",
+          "type1": "Steel",
+          "type2": "Rock",
+          "gender": "female",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/337.265.png",
+          "ability": "Solid Rock",
+          "held_item": "Metal Coat",
+          "moves": ["Stone Edge", "Iron Head", "Shift Gear", "Earthquake"]
+        }
+      ]
+    },
+    "Infinite Fusion Post-Game": {
+      "game_name": "Infinite Fusion Post-Game",
+      "game_color": "Xd",
+      "rainbow_border": true,
+      "trainer_img": "https://github.com/infinitefusion/infinitefusion-e18/blob/main/Graphics/Trainers/POKEMONTRAINER_Leaf.png?raw=true",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Pallet Town",
+      "pokemon_list": [
+        {
+          "name": "Arctoise",
+          "gender": "female",
+          "type1": "Ghost",
+          "type2": "Water",
+          "level": "72",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/315.9.png",
+          "ability": "Multitype",
+          "held_item": "Spooky Plate",
+          "moves": ["Scald", "Shadow Ball", "Ice Beam", "Earth Power"]
+        },
+        {
+          "name": "Reshivoir",
+          "gender": "male",
+          "type1": "Dragon",
+          "type2": "Fairy",
+          "level": "75",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/349.287d.png",
+          "ability": "Turboblaze",
+          "held_item": "Draco Plate",
+          "moves": ["Fusion Flare", "Moonblast", "Dragon Pulse", "Tail Glow"]
+        },
+        {
+          "name": "Zaprade",
+          "gender": "male",
+          "type1": "Electric",
+          "type2": "Poison",
+          "level": "73",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/145.352a.png",
+          "ability": "Techinician",
+          "held_item": "Black Sludge",
+          "moves": ["Ancient Power", "Discharge", "Sludge Bomb", "Thunder Wave"]
+        },
+        {
+          "name": "Ho-pardos",
+          "gender": "female",
+          "type1": "Fire",
+          "type2": "Rock",
+          "level": "72",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/250.306.png",
+          "ability": "Sheer Force",
+          "held_item": "Life Orb",
+          "moves": ["Sacred Fire", "Rock Tomb", "Brave Bird", "Mach Punch"]
+        },
+        {
+          "name": "Tregigas",
+          "gender": "female",
+          "type1": "Grass",
+          "type2": "Normal",
+          "level": "73",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/439.346b.png",
+          "ability": "Mold Breaker",
+          "held_item": "Shell Bell",
+          "moves": ["Horn Leech", "Shadow Claw", "Giga Impact", "Zen Headbutt"]
+        },
+        {
+          "name": "Necroetta",
+          "gender": null,
+          "type1": "Psychic",
+          "type2": "Normal",
+          "level": "73",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/450.466.png",
+          "hover_image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/470.466.png",
+          "ability": "Prism Armor",
+          "held_item": "Necrozium",
+          "held_item_replacement": "Ultranecrozium Z",
+          "moves": ["Photon Geyser", "Hyper Voice", "Power Gem", "Signal Beam"]
+        }
+      ]
+    }
+  }
+}
