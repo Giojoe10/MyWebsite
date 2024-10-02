@@ -1,0 +1,139 @@
+{
+  "teams": {
+    "Emerald": {
+      "game_name": "Emerald",
+      "game_color": "Emerald",
+      "trainer_img": "https://archives.bulbagarden.net/media/upload/a/a4/Spr_E_May.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Littleroot Town",
+      "pokemon_list": [
+        {
+          "name": "Blaziken",
+          "gender": "male",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/5/56/Spr_3r_257.png",
+          "ability": "Blaze",
+          "held_item": null,
+          "moves": ["Slash", "Blaze Kick", "Quick Attack", "Double Kick"]
+        },
+        {
+          "name": "Aggron",
+          "gender": "male",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/6/61/Spr_3r_306.png",
+          "ability": "Rock Head",
+          "held_item": null,
+          "moves": ["Iron Tail", "Take Down", "Metal Claw", "Headbutt"]
+        },
+        {
+          "name": "Manectric",
+          "gender": "male",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/1/15/Spr_3r_310.png",
+          "ability": "Lighthining Rod",
+          "held_item": null,
+          "moves": ["Spark", "Flash", "Bite", "Thunder"]
+        },
+        {
+          "name": "Flygon",
+          "gender": "female",
+          "level": 50,
+          "image": "https://archives.bulbagarden.net/media/upload/f/f0/Spr_3r_330.png",
+          "ability": "Levitate",
+          "held_item": null,
+          "moves": ["Bite", "Crunch", "Dragon Breath", "Earthquake"]
+        },
+        {
+          "name": "Rayquaza",
+          "gender": null,
+          "level": 70,
+          "image": "https://archives.bulbagarden.net/media/upload/8/81/Spr_3r_384.png",
+          "ability": "Air Lock",
+          "held_item": null,
+          "moves": ["Fly", "Waterfall", "Extreme Speed", "Outrage"]
+        },
+        {
+          "name": "Kirlia",
+          "gender": "female",
+          "level": 30,
+          "image": "https://archives.bulbagarden.net/media/upload/6/6b/Spr_3r_281_s.png",
+          "shiny": true,
+          "ability": "Trace",
+          "held_item": null,
+          "moves": ["Confusion", "Sleep Talk", "Rest", "Psychic"]
+        }
+      ]
+    },
+    "Y": {
+      "game_name": "X and Y",
+      "game_color": "Y",
+      "trainer_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWinVJqo4xjetB3ngZEf7KdFAS0wrkjyDtDtkyP9ReY0yJXfe8UEk5w2MvWmx_hyphenhyphen-WIc4G9Lkx4Ol5dh6MRzQ3I0MmCX2011Yic2IeW1MA2F_ltMPl0zekqbO15f8vHsEzKov-cG42naY/w102-h102-rw/120px-VSCalem_Masters.png",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Vaniville Town",
+      "pokemon_list": [
+        {
+          "name": "Greninja",
+          "gender": "male",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__658.png",
+          "ability": "Torrent",
+          "held_item": null,
+          "moves": ["Waterfall", "Surf", "Hydro Cannon", "Hydro Pump"]
+        },
+        {
+          "name": "Aggron",
+          "gender": "male",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__306.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__306-mega.png",
+          "ability": "Rock Head",
+          "held_item": "Aggronite",
+          "moves": ["Cut", "Heavy Slam", "Rock Smash", "Strength"]
+        },
+        {
+          "name": "Charizard",
+          "gender": "female",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__006.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__006-mega-y.png",
+          "ability": "Blaze",
+          "held_item": "Charizardite Y",
+          "moves": ["Inferno", "Dragon Rage", "Flare Blitz", "Blast Burn"]
+        },
+        {
+          "name": "Lucario",
+          "gender": "male",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__448-mega.png",
+          "hover_image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__448.png",
+          "ability": "Justified",
+          "held_item": "Lucarionite",
+          "moves": [
+            "Power-Up Punch",
+            "Extreme Speed",
+            "Aura Sphere",
+            "Close Combat"
+          ]
+        },
+        {
+          "name": "Talonflame",
+          "gender": "female",
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__663.png",
+          "ability": "Flame Body",
+          "held_item": null,
+          "moves": ["Flame Charge", "Brave Bird", "Fly", "Me First"]
+        },
+        {
+          "name": "Yveltal",
+          "gender": null,
+          "level": "80",
+          "image": "https://www.pokencyclopedia.info/sprites/3ds/spr_3ds/3spr__717.png",
+          "ability": "Dark Aura",
+          "held_item": "Sky Plate",
+          "moves": ["Phantom Force", "Oblivion Wing", "Foul Play", "Psychic"]
+        }
+      ]
+    }
+  }
+}

@@ -10,6 +10,7 @@ function TimesPokemon() {
   const [loading, setLoading] = useState(true);
   const [percentage, setPercentage] = useState(0);
   const [showMoves, setShowMoves] = useState(false);
+  const [extras, setExtras] = useState();
 
   useEffect(() => {
     console.log(percentage);
@@ -122,12 +123,55 @@ function TimesPokemon() {
         percent={percentage}
       />
       <div
-        className="absolute left-0 bg-secondary-800 text-white flex-col flex  rounded-r-xl p-2 gap-1 top-96 text-center z-20 cursor-pointer"
+        className="absolute left-0 bg-secondary-800 text-white flex-col flex rounded-r-xl p-2 gap-1 top-96 text-center z-20 cursor-pointer"
         onClick={() => setShowMoves(!showMoves)}
       >
         <span>Mostrar Ataques?</span>
         <input type="checkbox" checked={showMoves} className="cursor-pointer" />
       </div>
+      {extras ? (
+        <div
+          className="group absolute left-0 top-1/2 z-20 bg-white/5 flex-col flex rounded-r-xl p-2 gap-1 h-36 w-36 hover:w-40 ease-in-out duration-300"
+          onClick={() => setExtras(extras ? undefined : true)}
+        >
+          <svg
+            className="w-full h-full text-white group-hover:animate-pulse cursor-pointer"
+            aria-hidden="true"
+            fill="none"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              d="m15 19-7-7 7-7"
+            />
+          </svg>
+          <span className="text-white w-full text-center">Principais</span>
+        </div>
+      ) : (
+        <div
+          className="group absolute right-0 top-1/2 z-20 bg-white/5 flex-col flex rounded-l-xl p-2 gap-1 h-36 w-36 hover:w-40 ease-in-out duration-300"
+          onClick={() => setExtras(extras ? undefined : true)}
+        >
+          <svg
+            className="w-full h-full text-white group-hover:animate-pulse cursor-pointer"
+            aria-hidden="true"
+            fill="none"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+              d="m9 5 7 7-7 7"
+            />
+          </svg>
+          <span className="text-white w-full text-center">Extras</span>
+        </div>
+      )}
       <div
         className="grid gap-5 justify-center place-items-start px-2 py-10 relative"
         style={{ gridTemplateColumns: "repeat(4, minmax(305px, auto))" }}
@@ -136,13 +180,16 @@ function TimesPokemon() {
           ? [...Array(Object.keys(teams["teams"]).length)].map((_, index) => (
               <PokemonTeamCardSkeleton />
             ))
-          : Object.keys(data).map((key) => (
-              <PokemonTeamCard
-                name={key}
-                data={data[key]}
-                showMoves={showMoves}
-              />
-            ))}
+          : Object.keys(data).map(
+              (key) =>
+                data[key].extra === extras && (
+                  <PokemonTeamCard
+                    name={key}
+                    data={data[key]}
+                    showMoves={showMoves}
+                  />
+                )
+            )}
       </div>
     </div>
   );

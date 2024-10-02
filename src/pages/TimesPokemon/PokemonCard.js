@@ -182,8 +182,8 @@ function PokemonCard({ pokemon, showMoves }) {
                         key={i}
                         move={{
                           name: move,
-                          type: pokemon.move_types[i],
-                          kind: pokemon.move_kinds[i],
+                          type: pokemon.move_types[i + 2],
+                          kind: pokemon.move_kinds[i + 2],
                         }}
                       />
                     ))}

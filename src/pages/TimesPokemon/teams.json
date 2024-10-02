@@ -903,6 +903,84 @@
           "moves": ["Photon Geyser", "Hyper Voice", "Power Gem", "Signal Beam"]
         }
       ]
+    },
+    "Infinite Fusion Eeveelutions": {
+      "game_name": "Infinite Fusion Eeveelutions",
+      "game_color": "Let's go, eevee!",
+      "rainbow_border": true,
+      "trainer_img": "https://github.com/infinitefusion/infinitefusion-e18/blob/main/Graphics/Trainers/POKEMONTRAINER_Leaf.png?raw=true",
+      "trainer_name": "Giojoe",
+      "trainer_town": "Pallet Town",
+      "extra": true,
+      "pokemon_list": [
+        {
+          "name": "Doubreon",
+          "gender": "male",
+          "type1": "Steel",
+          "type2": "Fire",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/328.136a.png",
+          "ability": "Flash Fire",
+          "held_item": "Eviolite",
+          "moves": ["Flare Blitz", "Iron Head", "Night Slash", "Sacred Sword"]
+        },
+        {
+          "name": "Gareon",
+          "gender": "female",
+          "type1": "Dragon",
+          "type2": "Psychic",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/299.196e.png",
+          "ability": "Magic Bounce",
+          "held_item": "Expert Belt",
+          "moves": ["Psychic", "Clanging Scales", "Earth Power", "Stealth Rock"]
+        },
+        {
+          "name": "Vaporvoir",
+          "gender": "male",
+          "type1": "Water",
+          "type2": "Fairy",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/134.287f.png",
+          "ability": "Water Absorb",
+          "held_item": "Shell Bell",
+          "moves": ["Psychic", "Surf", "Sludge Bomb", "Moonblast"]
+        },
+        {
+          "name": "Duskfeon",
+          "gender": "male",
+          "type1": "Ghost",
+          "type2": "Grass",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/313.271.png",
+          "ability": "Leaf Guard",
+          "held_item": "Ghost Gem",
+          "moves": ["Leaf Blade", "Spirit Shackle", "Shadow Sneak", "Rock Tomb"]
+        },
+        {
+          "name": "Amphaceon",
+          "gender": "male",
+          "type1": "Electric",
+          "type2": "Ice",
+          "level": "62",
+          "shiny": "true",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/181.272.png",
+          "ability": "Static",
+          "held_item": "Wide Lens",
+          "moves": ["Blizzard", "Parabolic Charge", "Thunder Wave", "Icy Wind"]
+        },
+        {
+          "name": "Sylreade",
+          "gender": "male",
+          "type1": "Fairy",
+          "type2": "Poison",
+          "level": "62",
+          "image": "https://ifd-spaces.sfo2.cdn.digitaloceanspaces.com/sprites/custom/339.352f.png",
+          "ability": "Cute Charm",
+          "held_item": "Black Sludge",
+          "moves": ["Moonblast", "Sludge Bomb", "Toxic", "Leech Seed"]
+        }
+      ]
     }
   }
 }

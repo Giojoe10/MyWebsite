@@ -4,6 +4,7 @@ import TimesPokemon from "./pages/TimesPokemon";
 import MTG from "./pages/MTG";
 import Header from "./components/Header";
 import WantGenerator from "./pages/MTG/Want";
+import Prices from "./pages/MTG/Prices";
 
 function App() {
   return (
@@ -11,9 +12,9 @@ function App() {
       <Header />
       <Routes>
         {/* <Route /> */}
+        <Route exact path="/want" element={<WantGenerator />} />
+        <Route exact path="/price" element={<Prices />} />
         <Route exact path="/times" element={<TimesPokemon />} />
-        <Route exact path="/mtg/want" element={<WantGenerator />} />
-        {/* <Route exact path="/mtg/price" element={<BuscaPreco />} /> */}
         <Route exact path="/mtg" element={<MTG />} />
         <Route exact path="/" element={<Home />} />
       </Routes>
